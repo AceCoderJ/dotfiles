@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jayce.meta@gmail.com
+	name = Jayce Ivanisevic
